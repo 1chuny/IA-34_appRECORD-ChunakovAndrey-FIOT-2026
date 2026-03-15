@@ -6,8 +6,7 @@
   "student": {
     "fullName": "Чунаков Андрій Романович",
     "group": "ІА-34",
-    "gender": "male",
-    "photo": "/students/chad.jpg"
+    "gender": "male"
   },
   "toc": {
     "minDepth": 2,
